@@ -5,7 +5,7 @@ https://pygame-zero.readthedocs.io/en/stable/introduction.html
 ©2015, Daniel Pope.
 
 
-#Mu Editor
+# Mu Editor
 
 Editor Python recomendado:
 https://codewith.mu/
